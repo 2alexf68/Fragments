@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="chooseCity">City</string>
+    <string name="hello_world">Hello</string>
+</resources>
